@@ -9,7 +9,7 @@
 import React from 'react';
 
 
-import List from "./screens/List"
+import List from "./src/screens/List"
 
 class App extends React.Component{
   render() {
